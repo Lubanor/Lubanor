@@ -1,9 +1,4 @@
-曾文正公曾自题楹联: `养活一团春意思, 撑起两根穷骨头`.
-
-也就是, 无论身处何种境地, 都要
-培育和保持`蓬勃的生命力`, 并以`乐观积极的心态`支撑起自身的`理想, 希望和责任`.
-
-而这里, 就是我培养生命力的后花园.
+`养活一团春意思, 撑起两根穷骨头`.
 
 <!--
 **Lubanor/Lubanor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
